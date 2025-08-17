@@ -81,10 +81,6 @@ The **Coherence Score** tracks the system’s internal consistency over time.
 It starts from a low baseline and quickly rises in an **inflationary phase**, then stabilizes asymptotically.
 This demonstrates how coherence **emerges spontaneously** and then maintains itself through ongoing dynamics.
 
----
-
-## Visualizations
-
 | Plot                                               | Description                                                                                                                                                                                                                 |
 | -------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![34fde6f6-de61-45ea-bd09-4734dceb35ea](https://github.com/user-attachments/assets/8e73507f-9939-43c4-ac46-413ba5f65c12) | **Egoic Resonance** – the core visualization. Shows the three-body tension between the **world (U)**, the **optimal point (x\_opt)**, and the **ego trajectory**, illustrating how ego oscillates in search of equilibrium. |
