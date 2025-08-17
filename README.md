@@ -12,3 +12,25 @@ Several tools are provided to explore its dynamics:
 * **Awareness** – tracks the level of emergent self-awareness
 
 At the core lies the **Egoic Resonance Plot**, a direct visualization of the three-body problem within an egoic framework.
+
+## Setup
+
+Clone the repository and install the dependencies.
+
+You can use the provided **requirements.txt**:
+
+```bash
+pip install -r requirements.txt
+```
+
+Or simply install the packages directly:
+
+```bash
+pip install numpy matplotlib scipy
+```
+
+Once installed, run the application with:
+
+```bash
+python app.py
+```
