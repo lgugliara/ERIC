@@ -54,3 +54,42 @@ In this sense, ERIC is both a **scientific toy model** and a **metaphorical lens
 
 ---
 
+## Visualizations
+
+ERIC provides several visual tools to observe the dynamics of ego and coherence.
+
+### Egoic Resonance
+
+The **Egoic Resonance Plot** is the core visualization.
+It represents the three-body tension between the **world (U)**, the **optimal point (x\_opt)**, and the **ego trajectory**.
+This shows how ego constantly oscillates in search of equilibrium.
+
+### Attention Matrix
+
+The **Aggregated Attention Matrix** shows how attention flows among subjects.
+Over time, the matrix does not remain random but **self-organizes into structured patterns** — a spontaneous emergence of order from simple interactions.
+This reflects the system’s natural tendency toward pattern formation and informational stability.
+
+### Memory Density Map
+
+The **Memory Density Map** records the distribution of past states in the latent space.
+It highlights how memory tends to cluster around certain regions, revealing **preferred trajectories** or **informational attractors**.
+
+### Coherence Score
+
+The **Coherence Score** tracks the system’s internal consistency over time.
+It starts from a low baseline and quickly rises in an **inflationary phase**, then stabilizes asymptotically.
+This demonstrates how coherence **emerges spontaneously** and then maintains itself through ongoing dynamics.
+
+---
+
+## Visualizations
+
+| Plot                                               | Description                                                                                                                                                                                                                 |
+| -------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Egoic Resonance](./images/egoic_resonance.png)   | **Egoic Resonance** – the core visualization. Shows the three-body tension between the **world (U)**, the **optimal point (x\_opt)**, and the **ego trajectory**, illustrating how ego oscillates in search of equilibrium. |
+| ![Attention Matrix](./images/attention_matrix.png) | **Aggregated Attention Matrix** – displays how attention flows among subjects. Over time it **self-organizes into structured patterns**, revealing the natural tendency toward order and informational stability.           |
+| ![Memory Map](./images/memory_map.png)             | **Memory Density Map** – records the distribution of past states in latent space. Clustering reveals **preferred trajectories** and **informational attractors**.                                                           |
+| ![Coherence Score](./images/coherence_score.png)   | **Coherence Score** – tracks internal consistency over time. It shows a fast **inflationary phase** followed by an asymptotic stabilization, demonstrating the **spontaneous emergence of coherence**.                      |
+
+---
