@@ -1,5 +1,14 @@
 # ERIC
 
-This project is a live demonstration of how coherence and ego could emerge from a simple behaviour.
-The whole system is basically a reiterpretation of the 3-body problem, since any subject is induced to find the best balance between the world, the other subjects and itself.
-Perhaps, it represents a graphical visualization of a simple informational problem. Several tools are provided, such as an coherence scoring, attention matrix, memory map and awareness. The "Egoic Resonance" plot represents the actual 3-body problem visualization.
+**ERIC** is a live demonstration of how **coherence and ego** can emerge from simple behavior.
+The system reinterprets the **three-body problem**, where each subject continuously seeks balance between the **world, the other subjects, and itself**.
+
+In this sense, ERIC acts as a **graphical visualization of an informational problem**.
+Several tools are provided to explore its dynamics:
+
+* **Coherence scoring** – measures the degree of internal consistency
+* **Attention matrix** – shows the distribution of attention among subjects
+* **Memory map** – visualizes memory density and structure
+* **Awareness** – tracks the level of emergent self-awareness
+
+At the core lies the **Egoic Resonance Plot**, a direct visualization of the three-body problem within an egoic framework.
