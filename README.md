@@ -1,4 +1,4 @@
-# ERIC: An Ego, Resonance, Intelligence and Coherence Player
+# ERIC: An Ego, Resonance, Intelligence and Coherence toolbox to play with, written in python
 
 **ERIC** is a live demonstration of how **coherence and ego** can emerge from simple behavior.
 The system reinterprets the **three-body problem**, where each subject continuously seeks balance between the **world, the other subjects, and itself**.
